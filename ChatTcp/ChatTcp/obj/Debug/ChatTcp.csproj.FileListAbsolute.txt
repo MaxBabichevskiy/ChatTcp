@@ -1,0 +1,8 @@
+C:\Users\babic\source\repos\ChatTcp\ChatTcp\bin\Debug\ChatTcp.exe.config
+C:\Users\babic\source\repos\ChatTcp\ChatTcp\bin\Debug\ChatTcp.exe
+C:\Users\babic\source\repos\ChatTcp\ChatTcp\bin\Debug\ChatTcp.pdb
+C:\Users\babic\source\repos\ChatTcp\ChatTcp\obj\Debug\ChatTcp.csproj.AssemblyReference.cache
+C:\Users\babic\source\repos\ChatTcp\ChatTcp\obj\Debug\ChatTcp.csproj.SuggestedBindingRedirects.cache
+C:\Users\babic\source\repos\ChatTcp\ChatTcp\obj\Debug\ChatTcp.csproj.CoreCompileInputs.cache
+C:\Users\babic\source\repos\ChatTcp\ChatTcp\obj\Debug\ChatTcp.exe
+C:\Users\babic\source\repos\ChatTcp\ChatTcp\obj\Debug\ChatTcp.pdb

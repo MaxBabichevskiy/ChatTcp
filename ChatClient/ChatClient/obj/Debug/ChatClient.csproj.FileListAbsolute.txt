@@ -1,0 +1,8 @@
+C:\Users\babic\source\repos\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\babic\source\repos\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\babic\source\repos\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\babic\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\babic\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\babic\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\babic\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\babic\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
